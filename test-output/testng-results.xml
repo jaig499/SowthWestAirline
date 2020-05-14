@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62218" started-at="2020-05-14T14:24:44Z" finished-at="2020-05-14T14:25:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62218" started-at="2020-05-14T14:24:44Z" finished-at="2020-05-14T14:25:47Z">
+      <class name="org.SW.SouthWestAir">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:org.SW.SouthWestAir@7085bdee]" name="openBrowser" is-config="true" duration-ms="13558" started-at="2020-05-14T19:54:45Z" finished-at="2020-05-14T19:54:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="url()[pri:0, instance:org.SW.SouthWestAir@7085bdee]" name="url" is-config="true" duration-ms="14231" started-at="2020-05-14T19:54:58Z" finished-at="2020-05-14T19:55:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method status="PASS" signature="fill_1_from_to()[pri:1, instance:org.SW.SouthWestAir@7085bdee]" name="fill_1_from_to" duration-ms="12357" started-at="2020-05-14T19:55:12Z" finished-at="2020-05-14T19:55:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fill_1_from_to -->
+        <test-method status="PASS" signature="fill_2_dateup_datedown()[pri:2, instance:org.SW.SouthWestAir@7085bdee]" name="fill_2_dateup_datedown" duration-ms="21978" started-at="2020-05-14T19:55:25Z" finished-at="2020-05-14T19:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fill_2_dateup_datedown -->
+      </class> <!-- org.SW.SouthWestAir -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
